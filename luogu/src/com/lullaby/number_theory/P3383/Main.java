@@ -35,7 +35,6 @@ package com.lullaby.number_theory.P3383;
 
 // 需要快速读写
 
-import java.util.Scanner;
 import java.io.*;
 
 public class Main {
