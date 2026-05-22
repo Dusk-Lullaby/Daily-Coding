@@ -6,8 +6,6 @@ public class EulerSieve {
         re();
         System.out.println();
         test();
-//        return;
-
     }
 
     private static void test() {
