@@ -1,4 +1,4 @@
-package com.lullaby.dp.linear_dp.luogu_p2758;
+package com.lullaby.dp.linear_dp.lgp2758;
 
 import java.util.Scanner;
 
