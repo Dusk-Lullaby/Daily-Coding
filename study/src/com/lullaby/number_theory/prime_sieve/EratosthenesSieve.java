@@ -1,4 +1,4 @@
-package com.lullaby.number_theory;
+package com.lullaby.number_theory.prime_sieve;
 
 public class EratosthenesSieve {
     // 埃氏筛
